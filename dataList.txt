@@ -1,0 +1,8 @@
+"Alex","Perotti","Dev Adam","Ugursuz","Henry","Temmuz","Bursa","Burock Yilmaz",
+"Cankiri","Messi","Cengiz Under","Osayi","Ziyech","Lebron","Kobe","Ceyrek","Zajc","Antep","Giresun",
+"Alex Hunter","Messi PSG","Hatay","Isparta","Mersin","Istanbul","Izmir","6nin karesi","Kastamonu","Kayseri","Kirklareli",
+"Livakovic","Masallah","Konya","Kutahya","Normandiya","2. dunya savasi","Maras","Agent","Mugla","Azinlik",
+"Half","Majority","Ordu","Rize","Sakarya","Samsun","Siirt","Sinop","Sivas","Tekirdag","Tokat","Trabzon","Tavsan",
+"Urfa","Babam","Van","Iblis","Annem","Aksaray","Tunceli","Karaman","Kirikkale","Batman","Sirnak","Kibris","3 ceyrek",
+"Igdir","Gokhan Gonul","Karabük","Kilis","Osmaniye","Duzce","Anayasa","Gedson","Trabzonspor","Naim Suleymanoglu","Chernobyl",
+"Aids","Caner Erkin","Josef de Souza","Total","Ndombele","Umut","Boey","Bakambu","Alp","Ugurcan","Birkan","Ben","Nagihan"
